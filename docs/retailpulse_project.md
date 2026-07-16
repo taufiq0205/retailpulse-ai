@@ -1,7 +1,4 @@
-Yesterday 10:49 PM
-find me a good project to strengthen my portfolio. related to software engineering, web development, data science. with prove
-Worked for 1m 25s
-Best portfolio project: RetailPulse AI
+Portfolio project: RetailPulse AI
 
 An AI-powered demand forecasting and inventory decision platform for Malaysian SMEs.
 
